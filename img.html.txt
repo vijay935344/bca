@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>img prog</title>
+</head>
+<body>
+<h4>photo program</h4>
+<img src="C:\Users\acer\Pictures\nandu.jpg" alt="no img"/>
+</body>
+</html>
